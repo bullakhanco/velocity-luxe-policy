@@ -23,5 +23,7 @@ We may update our Privacy Policy from time to time. You are advised to review th
 If you have any questions or suggestions about our Privacy Policy, please feel free to contact us:
 
 Developer: Hasibul Studio
+
 Email: info@hasibulstudio.com
+
 Website: https://hasibulstudio.com
